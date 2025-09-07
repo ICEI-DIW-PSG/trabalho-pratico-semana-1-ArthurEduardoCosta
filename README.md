@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Arthur Eduardo de Oliveira Costa
+Matricula: 902839
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<Coloque aqui o print da tela de inspeção do seu navegador>` ![alt text](<Tenho quase certeza que é isso que está sendo pedido.png>)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+`<Coloque aqui o print da tela do projeto no Replit>` ![alt text](<isso eu tenho certeza.png>)
 
 
 ## Orientações sobre Linguagem MarkDown
